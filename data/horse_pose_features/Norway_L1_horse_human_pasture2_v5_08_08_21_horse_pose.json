@@ -1,0 +1,1051 @@
+{
+  "video": "Norway_L1_horse_human_pasture2_v5_08_08_21.MP4",
+  "n_frames": 132,
+  "features": [
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "pose_confidence": 0.1774516999721527,
+      "n_keypoints": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19847610592842102,
+      "n_keypoints": 7,
+      "frame": 5,
+      "timestamp": 0.16683334472522812,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.19701950252056122,
+      "n_keypoints": 7,
+      "frame": 10,
+      "timestamp": 0.33366668945045624,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2329649031162262,
+      "n_keypoints": 6,
+      "frame": 15,
+      "timestamp": 0.5005000341756844,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.2472572922706604,
+      "n_keypoints": 7,
+      "frame": 20,
+      "timestamp": 0.6673333789009125,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 59.29270553588867,
+      "pose_confidence": 0.23961782455444336,
+      "n_keypoints": 7,
+      "frame": 25,
+      "timestamp": 0.8341667236261406,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 56.25,
+      "pose_confidence": 0.22817134857177734,
+      "n_keypoints": 7,
+      "frame": 30,
+      "timestamp": 1.001000068351369,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23142419755458832,
+      "n_keypoints": 7,
+      "frame": 35,
+      "timestamp": 1.1678334130765968,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.23086799681186676,
+      "n_keypoints": 6,
+      "frame": 40,
+      "timestamp": 1.334666757801825,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 77.3082275390625,
+      "pose_confidence": 0.20176398754119873,
+      "n_keypoints": 5,
+      "frame": 45,
+      "timestamp": 1.5015001025270531,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21712486445903778,
+      "n_keypoints": 6,
+      "frame": 50,
+      "timestamp": 1.6683334472522813,
+      "boris_event_timestamp": 0.0
+    },
+    {
+      "ear_distance": 75.0,
+      "pose_confidence": 0.21992789208889008,
+      "n_keypoints": 6,
+      "frame": 55,
+      "timestamp": 1.8351667919775094,
+      "boris_event_timestamp": 0.0
+    }
+  ]
+}

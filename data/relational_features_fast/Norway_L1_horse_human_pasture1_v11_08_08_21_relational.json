@@ -1,0 +1,2408 @@
+{
+  "video": "Norway_L1_horse_human_pasture1_v11_08_08_21.MP4",
+  "n_boris_events": 25,
+  "n_frames": 300,
+  "fps": 29.97002997002997,
+  "features": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.16683333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.33366666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.5005000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6673333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.8341666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0010000000000001,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.1678333333333333,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3346666666666667,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.5015,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6683333333333334,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.8351666666666666,
+      "boris_event_timestamp": 0.0,
+      "human_detected": 0.0,
+      "horse_detected": 0.0,
+      "both_detected": 0.0
+    }
+  ]
+}

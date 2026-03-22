@@ -1,0 +1,19 @@
+# Confidential raw videos
+og_videos/
+
+# Model weights (too large — download manually, see README)
+models/
+
+# Too large for GitHub (410MB) — available on Zenodo
+data/mediapipe_features/
+
+# Auto-downloaded by ultralytics
+yolov8n.pt
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
+
+# CatBoost runtime logs
+catboost_info/

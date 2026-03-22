@@ -1,0 +1,79 @@
+{
+  "stage1": {
+    "classes": [
+      "affiliative",
+      "avoidant",
+      "neutral"
+    ],
+    "balanced_accuracy": 0.7315094558261138,
+    "accuracy": 0.6378157947085737,
+    "f1": 0.6576966485632554
+  },
+  "stage2": {
+    "affiliative": {
+      "balanced_accuracy": 0.8221716420195928,
+      "accuracy": 0.7919018826833252,
+      "f1": 0.8038492525363288
+    },
+    "neutral": {
+      "balanced_accuracy": 0.8432826256882799,
+      "accuracy": 0.8255218004902325,
+      "f1": 0.8291518321122255
+    },
+    "avoidant": {
+      "balanced_accuracy": 0.9889593018156302,
+      "accuracy": 0.9958115183246073,
+      "f1": 0.9958236627771635
+    }
+  },
+  "final": {
+    "classes": [
+      "affiliative-active",
+      "affiliative-subtle",
+      "avoidant-horse",
+      "avoidant-human",
+      "neutral-horse",
+      "neutral-human"
+    ],
+    "balanced_accuracy": 0.884804523174501,
+    "accuracy": 0.8086532723294211,
+    "f1": 0.8179196673441723
+  },
+  "feature_names": [
+    "yolo_distance",
+    "yolo_dx",
+    "yolo_dy",
+    "yolo_human_x",
+    "yolo_human_y",
+    "yolo_human_area",
+    "yolo_horse_x",
+    "yolo_horse_y",
+    "yolo_horse_area",
+    "yolo_human_conf",
+    "yolo_horse_conf",
+    "yolo_both_detected",
+    "mp_nose_x",
+    "mp_nose_y",
+    "mp_left_shoulder_x",
+    "mp_left_shoulder_y",
+    "mp_right_shoulder_x",
+    "mp_right_shoulder_y",
+    "mp_left_wrist_x",
+    "mp_left_wrist_y",
+    "mp_right_wrist_x",
+    "mp_right_wrist_y",
+    "mp_center_x",
+    "mp_center_y",
+    "mp_shoulder_width",
+    "mp_body_height",
+    "mp_speed",
+    "horse_ear_distance",
+    "horse_pose_confidence",
+    "horse_n_keypoints",
+    "horse_head_angle",
+    "horse_head_lowered",
+    "horse_body_angle",
+    "horse_body_length",
+    "horse_tail_y"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "samples": 50270,
+  "features": 27,
+  "categories": {
+    "affiliative": 34897,
+    "avoidant": 1910,
+    "neutral": 13463
+  },
+  "behaviors": {
+    "affiliative-active": 25993,
+    "avoidant-horse": 1754,
+    "affiliative-subtle": 8904,
+    "avoidant-human": 156,
+    "neutral-human": 4746,
+    "neutral-horse": 8717
+  },
+  "has_all_categories": true
+}

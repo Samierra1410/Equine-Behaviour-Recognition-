@@ -1,0 +1,15 @@
+{
+  "samples": 50270,
+  "features": {
+    "yolo": 12,
+    "mediapipe": 15,
+    "ap10k": 8,
+    "total": 35
+  },
+  "categories": {
+    "affiliative": 34897,
+    "neutral": 13463,
+    "avoidant": 1910
+  },
+  "has_ap10k": true
+}
