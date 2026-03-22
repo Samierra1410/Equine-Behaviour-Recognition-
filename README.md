@@ -258,6 +258,10 @@ Ablation study result: AP-10K features contribute most critically (−13.1 pp wh
 
 Raw videos are not publicly available due to privacy and facility agreements. Behavioral annotation CSVs are included in `data/boris_csvs/`. Processed feature representations are available from the corresponding author upon reasonable request.
 
+**Note:** `data/mediapipe_features/` (410MB) is not included in this
+repository due to size limits. It will be available on Zenodo upon
+acceptance. To regenerate it locally, run `scripts/01_mediapipe_extractor.py
+
 ---
 
 ## Citation
