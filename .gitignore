@@ -17,3 +17,4 @@ __pycache__/
 
 # CatBoost runtime logs
 catboost_info/
+data/boris_csvs/
